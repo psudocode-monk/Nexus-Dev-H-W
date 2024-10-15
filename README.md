@@ -25,3 +25,34 @@ Welcome to the **Rohit Negi's Web Development Homework** repository! This reposi
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/rohit-negi-webdev-homework.git
+cd html-css/assignment-1
+npm install
+npm start
+📦 Project Setup:
+Frontend Projects: Open the HTML file directly or use a live server in VS Code.
+
+Node.js Projects: Install dependencies with npm install and start the server with npm start.
+
+Full Stack Projects: Check the respective project’s README file inside its folder for database setup, backend server configuration, and API documentation.
+
+📚 Learning Goals:
+This repository focuses on:
+
+Building strong
+HTML/CSS fundamentals.
+Mastering
+JavaScript and DOM manipulation.
+Developing skills in
+React and
+Vue.js for front-end development.
+Gaining back-end development experience with
+Node.js,
+Express, and
+MongoDB.
+Understanding
+REST APIs, CRUD operations, and
+authentication.
+Learning to
+deploy full-stack applications on platforms like Heroku and Vercel.
+
+This version includes icons (via shields.io) for technologies, tools, and topics. The icons give a visual appeal to the README, making it easier for readers to quickly grasp the technologies being used. Feel free to copy and paste this code into your `README.md` file!
